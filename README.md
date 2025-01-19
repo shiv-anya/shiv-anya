@@ -25,7 +25,7 @@ I'm a passionate Frontend Developer with experience in building responsive and u
 ---
 
 ### 📌 Pinned Projects:
-- **[Stream Play (Real-Time Chat App)]()**  
+- **[Stream Play (Real-Time Chat App)](https://github.com/shiv-anya/stream_play)**  
   A chat application with real-time messaging, typing indicators, and group chats, built using React and GetStream.io SDK.
 
 - **[Tick It Off (To-Do App)](https://github.com/shiv-anya/to-do)**  
