@@ -1,4 +1,4 @@
-# Hi, I'm [Shivangi Gupta] 👋
+# Hi, I'm Shivangi Gupta 👋
 
 ### Frontend Developer | React | JavaScript | Building Interactive Applications
 
