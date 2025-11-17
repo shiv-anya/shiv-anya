@@ -24,18 +24,6 @@ I'm a passionate Frontend Developer with experience in building responsive and u
 
 ---
 
-### 📌 Pinned Projects:
-- **[Stream Play (Real-Time Chat App)](https://github.com/shiv-anya/stream_play)**  
-  A chat application with real-time messaging, typing indicators, and group chats, built using React and GetStream.io SDK.
-
-- **[Tick It Off (To-Do App)](https://github.com/shiv-anya/to-do)**  
-  A task management app with filters for today, past, and future tasks using React and Redux Toolkit.
-
-- **[Livestock (Stock Market App)](https://github.com/shiv-anya/livestock)**  
-  A live stock update platform using React and Polygon.io API.
-
----
-
 ### 🛠️ How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shiv-anya)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internetexplorer)](https://shiv-anya.netlify.app/)  
